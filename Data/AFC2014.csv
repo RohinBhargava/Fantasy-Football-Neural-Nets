@@ -1,0 +1,17 @@
+Seed,Tm,W,L,T,W-L%,SRS,Why,Reason
+1,New England Patriots,12,4,0,.750,10.95,East Champion,head-to-head record over Denver Broncos
+2,Denver Broncos,12,4,0,.750,9.58,West Champion,
+3,Pittsburgh Steelers,11,5,0,.688,2.23,North Champion,head-to-head record over Indianapolis Colts
+4,Indianapolis Colts,11,5,0,.688,4.43,South Champion,
+5,Cincinnati Bengals,10,5,1,.656,0.73,Wild Card #1,
+6,Baltimore Ravens,10,6,0,.625,4.61,Wild Card #2,
+,Houston Texans,9,7,0,.563,1.73,,conference win percentage
+,Kansas City Chiefs,9,7,0,.563,5.65,,head-to-head record over Buffalo Bills
+,San Diego Chargers,9,7,0,.563,1.86,,head-to-head record over Buffalo Bills
+,Buffalo Bills,9,7,0,.563,4.93,,
+,Miami Dolphins,8,8,0,.500,2.56,,
+,Cleveland Browns,7,9,0,.438,-3.92,,
+,New York Jets,4,12,0,.250,-5.04,,
+,Jacksonville Jaguars,3,13,0,.188,-10.46,,win percentage in common games over Oakland Raiders
+,Oakland Raiders,3,13,0,.188,-8.99,,
+,Tennessee Titans,2,14,0,.125,-11.84,,

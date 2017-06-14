@@ -1,0 +1,17 @@
+Seed,Tm,W,L,T,W-L%,SRS,Why,Reason
+1,Atlanta Falcons,13,3,0,.813,6.44,South Champion,
+2,San Francisco 49ers,11,4,1,.719,10.21,West Champion,
+3,Green Bay Packers,11,5,0,.688,7.26,North Champion,
+4,Washington Redskins,10,6,0,.625,3.42,East Champion,
+5,Seattle Seahawks,11,5,0,.688,12.23,Wild Card #1,
+6,Minnesota Vikings,10,6,0,.625,3.35,Wild Card #2,division win percentage over Chicago Bears
+,Chicago Bears,10,6,0,.625,6.95,,
+,New York Giants,9,7,0,.563,6.24,,
+,Dallas Cowboys,8,8,0,.500,0.28,,
+,St. Louis Rams,7,8,1,.469,0.36,,
+,Carolina Panthers,7,9,0,.438,0.81,,head-to-head record over New Orleans Saints
+,New Orleans Saints,7,9,0,.438,1.44,,head-to-head record over Tampa Bay Buccaneers
+,Tampa Bay Buccaneers,7,9,0,.438,0.01,,
+,Arizona Cardinals,5,11,0,.313,-3.19,,
+,Detroit Lions,4,12,0,.250,-2.31,,head-to-head record over Philadelphia Eagles
+,Philadelphia Eagles,4,12,0,.250,-8.87,,
